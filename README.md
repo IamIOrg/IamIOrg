@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamIOrg&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
+  
+## 💙 <strong>Tecnologias trabalhadas!</strong>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PyQt5"/></code>
