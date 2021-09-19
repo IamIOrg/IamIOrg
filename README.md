@@ -1,14 +1,12 @@
-## 💙 Prazer, eu sou o <strong>Luis!</strong>
+## 💙 Prazer, somos a <strong>IamI!</strong>
 
-## 🚀 Minhas Skills
+## 🚀 Skills da Empresa
 
 <div>
-  <a href="https://github.com/luixfds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luixfds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/IamIOrg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamIOrg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamIOrg&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-<img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
@@ -25,8 +23,12 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/luix_fds)
+  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0066)](https://www.instagram.com/luix_fds/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luis-felipe-80a0121ba)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=for-the-badge&logo=Twitch&logoColor=white&color=6600ff)](https://www.twitch.tv/luix_fds)
-[![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=for-the-badge&logo=Discord&logoColor=white&color=6666ff)](https://discord.gg/Py2eTFSj)
+  
+<!-- ADD LINKEDIN FUTURAMENTE   -->
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luis-felipe-80a0121ba) -->
+  
+<!-- ADD DISCORD SERVER FUTURAMENTE   -->
+<!-- [![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=for-the-badge&logo=Discord&logoColor=white&color=6666ff)](https://discord.gg/Py2eTFSj) -->
   
